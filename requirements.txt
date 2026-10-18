@@ -1,0 +1,9 @@
+torch
+pymupdf
+sentence-transformers
+faiss-cpu
+google-genai
+python-dotenv
+pandas
+numpy
+ipykernel
