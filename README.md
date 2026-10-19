@@ -52,6 +52,7 @@ The LLM is told to answer **only** from the retrieved passages, to cite them, an
 ```
 .
 ├── rag_reranking.ipynb   # the whole project (executed, with outputs)
+├── 2025202027_report.pdf # assignment report
 ├── requirements.txt
 ├── .gitignore
 └── README.md
