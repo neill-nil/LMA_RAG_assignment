@@ -4,3 +4,6 @@ data/*.pdf
 __pycache__/
 .ipynb_checkpoints/
 llm_cache.json
+RAG_LMA_Assignment_v1.pdf
+report.tex
+report_draft.txt
